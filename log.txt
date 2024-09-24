@@ -1,0 +1,50 @@
+UserID: 839542347 | Time: 2024-09-23 12:18:35.519950 | Command: /bgmi | Target: 20.235.150.188 | Port: 19665 | Time: 200
+Username: @akchou1997
+Target: 20.235.150.188
+Port: 19665
+Time: 200
+
+UserID: 839542347 | Time: 2024-09-23 12:28:12.083645 | Command: /bgmi | Target: 20.235.150.188 | Port: 19665 | Time: 100
+UserID: 839542347 | Time: 2024-09-23 12:29:24.499827 | Command: /bgmi | Target: 20.235.150.188 | Port: 19665 | Time: 100
+Username: @akchou1997
+Target: 20.235.150.188
+Port: 19665
+Time: 100
+
+UserID: 839542347 | Time: 2024-09-23 12:32:57.055713 | Command: /bgmi | Target: 20.235.150.188 | Port: 19665 | Time: 100
+Username: @akchou1997
+Target: 20.235.150.188
+Port: 19665
+Time: 100
+
+UserID: 839542347 | Time: 2024-09-23 12:34:41.355552 | Command: /bgmi | Target: 20.195.102.238 | Port: 17500 | Time: 60
+Username: @akchou1997
+Target: 20.195.102.238
+Port: 17500
+Time: 60
+
+UserID: 839542347 | Time: 2024-09-23 12:35:44.532775 | Command: /bgmi | Target: 20.204.52.16 | Port: 20001 | Time: 60
+Username: @akchou1997
+Target: 20.204.52.16
+Port: 20001
+Time: 60
+
+UserID: 839542347 | Time: 2024-09-23 12:36:47.384639 | Command: /bgmi | Target: 20.204.53.245 | Port: 20000 | Time: 30
+UserID: 839542347 | Time: 2024-09-23 12:37:50.256614 | Command: /bgmi | Target: 20.235.150.188 | Port: 19665 | Time: 30
+Username: @akchou1997
+Target: 20.235.150.188
+Port: 19665
+Time: 30
+
+UserID: 839542347 | Time: 2024-09-23 12:38:27.239524 | Command: /bgmi | Target: 20.235.150.188 | Port: 19665 | Time: 30
+Username: @akchou1997
+Target: 20.235.150.188
+Port: 19665
+Time: 30
+
+UserID: 839542347 | Time: 2024-09-23 12:40:58.249805 | Command: /bgmi | Target: 20.204.191.16 | Port: 10143 | Time: 300
+Username: @akchou1997
+Target: 20.204.191.16
+Port: 10143
+Time: 300
+
