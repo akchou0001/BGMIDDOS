@@ -1,7 +1,6 @@
 # ReporterAlpha
 import telebot
 import subprocess
-import requests
 import datetime
 import os
 
